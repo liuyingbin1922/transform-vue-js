@@ -1,6 +1,6 @@
 {
   "name": "transform-vue-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "transform vue to js ",
   "main": "./lib/index.esm.js",
   "scripts": {
