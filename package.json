@@ -1,8 +1,8 @@
 {
   "name": "transform-vue-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "transform vue to js ",
-  "main": "./lib/index.esm.js",
+  "main": "./lib/index.cjs.js",
   "scripts": {
     "test": "jest --no-cache",
     "build": "rollup -c"
